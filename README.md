@@ -16,12 +16,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
-  <a href="https://https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngegg.com/en/search?q=javascript+Logo" alt="js" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngwing.com/en/free-png-dynoz" alt="angular" width="40" height="40"/>
-  </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
   </a> 
